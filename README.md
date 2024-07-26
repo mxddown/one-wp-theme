@@ -5,9 +5,9 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mxddown/one-wp-theme)
 ![GitHub Release](https://img.shields.io/github/v/release/mxddown/one-wp-theme)
 
-# "One" HelloElementor Child Theme
+# "One" Hello Elementor Child Theme
 
-"One" Our HelloElementor Child Theme is designed for versatility. It features a clean, responsive layout suitable for blogs, business websites, and more. With customizable component for headers, footers, and various page templates, it adapts seamlessly to different content types. Users can personalize colors, fonts, and widgets. Whether you're a blogger, entrepreneur, or creative professional, our theme has you covered!
+"One" Our Hello Elementor Child Theme is designed for versatility. It features a clean, responsive layout suitable for blogs, business websites, and more. With customizable component for headers, footers, and various page templates, it adapts seamlessly to different content types. Users can personalize colors, fonts, and widgets. Whether you're a blogger, entrepreneur, or creative professional, our theme has you covered!
 
 
 ## Usage
