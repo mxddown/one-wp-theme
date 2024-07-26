@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://freeimage.host/i/dzlDALx.png)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mxddown/one-wp-theme/total)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mxddown/one-wp-theme)
