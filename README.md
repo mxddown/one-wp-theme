@@ -1,5 +1,5 @@
 
-![Logo](https://freeimage.host/i/dzlDALx)
+![Logo](https://iili.io/dzlDALx.png)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mxddown/one-wp-theme/total)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mxddown/one-wp-theme)
